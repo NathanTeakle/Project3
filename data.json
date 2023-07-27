@@ -1,0 +1,2711 @@
+[
+ {
+   "Sport Name": 1,
+   "Name": "Mike Tyson",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Boxing",
+   "Year": 1990,
+   "Earnings ($ million)": 28.6
+ },
+ {
+   "Sport Name": 2,
+   "Name": "Buster Douglas",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 1990,
+   "Earnings ($ million)": 26
+ },
+ {
+   "Sport Name": 3,
+   "Name": "Sugar Ray Leonard",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Boxing",
+   "Year": 1990,
+   "Earnings ($ million)": 13
+ },
+ {
+   "Sport Name": 4,
+   "Name": "Ayrton Senna",
+   "Nationality": "Brazil",
+   "Current Rank": 4,
+   "Sport": "Auto Racing",
+   "Year": 1990,
+   "Earnings ($ million)": 10
+ },
+ {
+   "Sport Name": 5,
+   "Name": "Alain Prost",
+   "Nationality": "France",
+   "Current Rank": 5,
+   "Sport": "Auto Racing",
+   "Year": 1990,
+   "Earnings ($ million)": 9
+ },
+ {
+   "Sport Name": 6,
+   "Name": "Jack Nicklaus",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Golf",
+   "Year": 1990,
+   "Earnings ($ million)": 8.6
+ },
+ {
+   "Sport Name": 7,
+   "Name": "Greg Norman",
+   "Nationality": "Australia",
+   "Current Rank": 7,
+   "Sport": "Golf",
+   "Year": 1990,
+   "Earnings ($ million)": 8.5
+ },
+ {
+   "Sport Name": 8,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Basketball",
+   "Year": 1990,
+   "Earnings ($ million)": 8.1
+ },
+ {
+   "Sport Name": 9,
+   "Name": "Arnold Palmer",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 1990,
+   "Earnings ($ million)": 8.1
+ },
+ {
+   "Sport Name": 10,
+   "Name": "Evander Holyfield",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Boxing",
+   "Year": 1990,
+   "Earnings ($ million)": 8.1
+ },
+ {
+   "Sport Name": 11,
+   "Name": "Evander Holyfield",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Boxing",
+   "Year": 1991,
+   "Earnings ($ million)": 60.5
+ },
+ {
+   "Sport Name": 12,
+   "Name": "Mike Tyson",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 1991,
+   "Earnings ($ million)": 31.5
+ },
+ {
+   "Sport Name": 13,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 1991,
+   "Earnings ($ million)": 16
+ },
+ {
+   "Sport Name": 14,
+   "Name": "George Foreman",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Boxing",
+   "Year": 1991,
+   "Earnings ($ million)": 14.5
+ },
+ {
+   "Sport Name": 15,
+   "Name": "Ayrton Senna",
+   "Nationality": "Brazil",
+   "Current Rank": 5,
+   "Sport": "Auto Racing",
+   "Year": 1991,
+   "Earnings ($ million)": 13
+ },
+ {
+   "Sport Name": 16,
+   "Name": "Alain Prost",
+   "Nationality": "France",
+   "Current Rank": 6,
+   "Sport": "Auto Racing",
+   "Year": 1991,
+   "Earnings ($ million)": 11
+ },
+ {
+   "Sport Name": 17,
+   "Name": "Donovan \"Razor\" Ruddock",
+   "Nationality": "Canada",
+   "Current Rank": 7,
+   "Sport": "Boxing",
+   "Year": 1991,
+   "Earnings ($ million)": 10.2
+ },
+ {
+   "Sport Name": 18,
+   "Name": "Arnold Palmer",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 1991,
+   "Earnings ($ million)": 9.3
+ },
+ {
+   "Sport Name": 19,
+   "Name": "Nigel Mansell",
+   "Nationality": "UK",
+   "Current Rank": 9,
+   "Sport": "Auto Racing",
+   "Year": 1991,
+   "Earnings ($ million)": 9
+ },
+ {
+   "Sport Name": 20,
+   "Name": "Sugar Ray Leonard",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Golf",
+   "Year": 1991,
+   "Earnings ($ million)": 8.5
+ },
+ {
+   "Sport Name": 21,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Basketball",
+   "Year": 1992,
+   "Earnings ($ million)": 35.9
+ },
+ {
+   "Sport Name": 22,
+   "Name": "Evander Holyfield",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 1992,
+   "Earnings ($ million)": 28
+ },
+ {
+   "Sport Name": 23,
+   "Name": "Ayrton Senna",
+   "Nationality": "Brazil",
+   "Current Rank": 3,
+   "Sport": "Auto Racing",
+   "Year": 1992,
+   "Earnings ($ million)": 22
+ },
+ {
+   "Sport Name": 24,
+   "Name": "Nigel Mansell",
+   "Nationality": "UK",
+   "Current Rank": 4,
+   "Sport": "Auto Racing",
+   "Year": 1992,
+   "Earnings ($ million)": 14.5
+ },
+ {
+   "Sport Name": 25,
+   "Name": "Arnold Palmer",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Golf",
+   "Year": 1992,
+   "Earnings ($ million)": 11.1
+ },
+ {
+   "Sport Name": 26,
+   "Name": "Andre Agassi",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Tennis",
+   "Year": 1992,
+   "Earnings ($ million)": 11
+ },
+ {
+   "Sport Name": 27,
+   "Name": "Joe Montana",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "American Football",
+   "Year": 1992,
+   "Earnings ($ million)": 9.5
+ },
+ {
+   "Sport Name": 28,
+   "Name": "Sugar Ray Leonard",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 1992,
+   "Earnings ($ million)": 9.2
+ },
+ {
+   "Sport Name": 29,
+   "Name": "Jim Courier",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Tennis",
+   "Year": 1992,
+   "Earnings ($ million)": 9
+ },
+ {
+   "Sport Name": 30,
+   "Name": "Monica Seles",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Tennis",
+   "Year": 1992,
+   "Earnings ($ million)": 8.5
+ },
+ {
+   "Sport Name": 31,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Basketball",
+   "Year": 1993,
+   "Earnings ($ million)": 36
+ },
+ {
+   "Sport Name": 32,
+   "Name": "Riddick Bowe",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 1993,
+   "Earnings ($ million)": 25
+ },
+ {
+   "Sport Name": 33,
+   "Name": "Ayrton Senna",
+   "Nationality": "Brazil",
+   "Current Rank": 3,
+   "Sport": "Auto Racing",
+   "Year": 1993,
+   "Earnings ($ million)": 18.5
+ },
+ {
+   "Sport Name": 34,
+   "Name": "Alain Prost",
+   "Nationality": "France",
+   "Current Rank": 4,
+   "Sport": "Auto Racing",
+   "Year": 1993,
+   "Earnings ($ million)": 16
+ },
+ {
+   "Sport Name": 35,
+   "Name": "George Foreman",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Boxing",
+   "Year": 1993,
+   "Earnings ($ million)": 15.8
+ },
+ {
+   "Sport Name": 36,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 1993,
+   "Earnings ($ million)": 15.2
+ },
+ {
+   "Sport Name": 37,
+   "Name": "Lennox Lewis",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Boxing",
+   "Year": 1993,
+   "Earnings ($ million)": 15
+ },
+ {
+   "Sport Name": 38,
+   "Name": "Cecil Fielder",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Baseball",
+   "Year": 1993,
+   "Earnings ($ million)": 12.7
+ },
+ {
+   "Sport Name": 39,
+   "Name": "Jim Courier",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Tennis",
+   "Year": 1993,
+   "Earnings ($ million)": 12.6
+ },
+ {
+   "Sport Name": 40,
+   "Name": "Joe Montana",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "American Football",
+   "Year": 1993,
+   "Earnings ($ million)": 11.5
+ },
+ {
+   "Sport Name": 41,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Basketball",
+   "Year": 1994,
+   "Earnings ($ million)": 30
+ },
+ {
+   "Sport Name": 42,
+   "Name": "Shaq O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Basketball",
+   "Year": 1994,
+   "Earnings ($ million)": 16.7
+ },
+ {
+   "Sport Name": 43,
+   "Name": "Jack Nicklaus",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Golf",
+   "Year": 1994,
+   "Earnings ($ million)": 14.8
+ },
+ {
+   "Sport Name": 44,
+   "Name": "Arnold Palmer",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Golf",
+   "Year": 1994,
+   "Earnings ($ million)": 13.6
+ },
+ {
+   "Sport Name": 45,
+   "Name": "Gerhard Berger",
+   "Nationality": "Austria",
+   "Current Rank": 5,
+   "Sport": "Auto Racing",
+   "Year": 1994,
+   "Earnings ($ million)": 13.5
+ },
+ {
+   "Sport Name": 46,
+   "Name": "Wayne Gretzky",
+   "Nationality": "Canada",
+   "Current Rank": 5,
+   "Sport": "Ice Hockey",
+   "Year": 1994,
+   "Earnings ($ million)": 13.5
+ },
+ {
+   "Sport Name": 47,
+   "Name": "Michael Moorer",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Boxing",
+   "Year": 1994,
+   "Earnings ($ million)": 12.1
+ },
+ {
+   "Sport Name": 48,
+   "Name": "Evander Holyfield",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Boxing",
+   "Year": 1994,
+   "Earnings ($ million)": 12
+ },
+ {
+   "Sport Name": 49,
+   "Name": "Andre Agassi",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Tennis",
+   "Year": 1994,
+   "Earnings ($ million)": 11.4
+ },
+ {
+   "Sport Name": 50,
+   "Name": "Nigel Mansell",
+   "Nationality": "UK",
+   "Current Rank": 10,
+   "Sport": "Auto Racing",
+   "Year": 1994,
+   "Earnings ($ million)": 11.3
+ },
+ {
+   "Sport Name": 51,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Basketball",
+   "Year": 1995,
+   "Earnings ($ million)": 43.9
+ },
+ {
+   "Sport Name": 52,
+   "Name": "Mike Tyson",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 1995,
+   "Earnings ($ million)": 40
+ },
+ {
+   "Sport Name": 53,
+   "Name": "Deion Sanders",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "American Football / Baseball",
+   "Year": 1995,
+   "Earnings ($ million)": 22.5
+ },
+ {
+   "Sport Name": 54,
+   "Name": "Riddick Bowe",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Boxing",
+   "Year": 1995,
+   "Earnings ($ million)": 22.2
+ },
+ {
+   "Sport Name": 55,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 1995,
+   "Earnings ($ million)": 21.9
+ },
+ {
+   "Sport Name": 56,
+   "Name": "George Foreman",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Boxing",
+   "Year": 1995,
+   "Earnings ($ million)": 18
+ },
+ {
+   "Sport Name": 57,
+   "Name": "Andre Agassi",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Tennis",
+   "Year": 1995,
+   "Earnings ($ million)": 16
+ },
+ {
+   "Sport Name": 58,
+   "Name": "Sugar Ray Leonard",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 1995,
+   "Earnings ($ million)": 15.1
+ },
+ {
+   "Sport Name": 59,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 9,
+   "Sport": "Auto Racing",
+   "Year": 1995,
+   "Earnings ($ million)": 15
+ },
+ {
+   "Sport Name": 60,
+   "Name": "Wayne Gretzky",
+   "Nationality": "Canada",
+   "Current Rank": 10,
+   "Sport": "Ice Hockey",
+   "Year": 1995,
+   "Earnings ($ million)": 14.5
+ },
+ {
+   "Sport Name": 61,
+   "Name": "Mike Tyson",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Boxing",
+   "Year": 1996,
+   "Earnings ($ million)": 75
+ },
+ {
+   "Sport Name": 62,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Basketball",
+   "Year": 1996,
+   "Earnings ($ million)": 52.6
+ },
+ {
+   "Sport Name": 63,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 3,
+   "Sport": "Auto Racing",
+   "Year": 1996,
+   "Earnings ($ million)": 33
+ },
+ {
+   "Sport Name": 64,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Basketball",
+   "Year": 1996,
+   "Earnings ($ million)": 24.4
+ },
+ {
+   "Sport Name": 65,
+   "Name": "Emmit Smith",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "American Football",
+   "Year": 1996,
+   "Earnings ($ million)": 16.5
+ },
+ {
+   "Sport Name": 66,
+   "Name": "Evander Holyfield",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Boxing",
+   "Year": 1996,
+   "Earnings ($ million)": 15.5
+ },
+ {
+   "Sport Name": 67,
+   "Name": "Andre Agassi",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Tennis",
+   "Year": 1996,
+   "Earnings ($ million)": 15.2
+ },
+ {
+   "Sport Name": 68,
+   "Name": "Arnold Palmer",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 1996,
+   "Earnings ($ million)": 15.1
+ },
+ {
+   "Sport Name": 69,
+   "Name": "Dennis Rodman",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Basketball",
+   "Year": 1996,
+   "Earnings ($ million)": 12.9
+ },
+ {
+   "Sport Name": 70,
+   "Name": "Patrick Ewing",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Basketball",
+   "Year": 1996,
+   "Earnings ($ million)": 12.9
+ },
+ {
+   "Sport Name": 71,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Basketball",
+   "Year": 1997,
+   "Earnings ($ million)": 78.3
+ },
+ {
+   "Sport Name": 72,
+   "Name": "Evander Holyfield",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 1997,
+   "Earnings ($ million)": 54.3
+ },
+ {
+   "Sport Name": 73,
+   "Name": "Oscar De La Hoya",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Boxing",
+   "Year": 1997,
+   "Earnings ($ million)": 38
+ },
+ {
+   "Sport Name": 74,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 4,
+   "Sport": "Auto Racing",
+   "Year": 1997,
+   "Earnings ($ million)": 35
+ },
+ {
+   "Sport Name": 75,
+   "Name": "Mike Tyson",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Boxing",
+   "Year": 1997,
+   "Earnings ($ million)": 27
+ },
+ {
+   "Sport Name": 76,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Golf",
+   "Year": 1997,
+   "Earnings ($ million)": 26.1
+ },
+ {
+   "Sport Name": 77,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 1997,
+   "Earnings ($ million)": 25.4
+ },
+ {
+   "Sport Name": 78,
+   "Name": "Dale Earnhardt",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Auto Racing",
+   "Year": 1997,
+   "Earnings ($ million)": 19.1
+ },
+ {
+   "Sport Name": 79,
+   "Name": "Joe Sakic",
+   "Nationality": "Canada",
+   "Current Rank": 9,
+   "Sport": "Hockey",
+   "Year": 1997,
+   "Earnings ($ million)": 17.9
+ },
+ {
+   "Sport Name": 80,
+   "Name": "Grant Hill",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Basketball",
+   "Year": 1997,
+   "Earnings ($ million)": 17
+ },
+ {
+   "Sport Name": 81,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Basketball",
+   "Year": 1998,
+   "Earnings ($ million)": 69
+ },
+ {
+   "Sport Name": 82,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 2,
+   "Sport": "Auto Racing",
+   "Year": 1998,
+   "Earnings ($ million)": 38
+ },
+ {
+   "Sport Name": 83,
+   "Name": "Sergei Federov",
+   "Nationality": "Russia",
+   "Current Rank": 3,
+   "Sport": "Ice Hockey",
+   "Year": 1998,
+   "Earnings ($ million)": 29.8
+ },
+ {
+   "Sport Name": 84,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Golf",
+   "Year": 1998,
+   "Earnings ($ million)": 26.8
+ },
+ {
+   "Sport Name": 85,
+   "Name": "Dale Earnhardt",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Auto Racing",
+   "Year": 1998,
+   "Earnings ($ million)": 24.1
+ },
+ {
+   "Sport Name": 86,
+   "Name": "Grant Hill",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 1998,
+   "Earnings ($ million)": 21.6
+ },
+ {
+   "Sport Name": 87,
+   "Name": "Oscar De La Hoya",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Boxing",
+   "Year": 1998,
+   "Earnings ($ million)": 18.5
+ },
+ {
+   "Sport Name": 88,
+   "Name": "Patrick Ewing",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Basketball",
+   "Year": 1998,
+   "Earnings ($ million)": 18.3
+ },
+ {
+   "Sport Name": 89,
+   "Name": "Arnold Palmer",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Golf",
+   "Year": 1998,
+   "Earnings ($ million)": 18.1
+ },
+ {
+   "Sport Name": 90,
+   "Name": "Gary Sheffield",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Baseball",
+   "Year": 1998,
+   "Earnings ($ million)": 17.2
+ },
+ {
+   "Sport Name": 91,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 1,
+   "Sport": "Auto Racing",
+   "Year": 1999,
+   "Earnings ($ million)": 49
+ },
+ {
+   "Sport Name": 92,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Golf",
+   "Year": 1999,
+   "Earnings ($ million)": 47
+ },
+ {
+   "Sport Name": 93,
+   "Name": "Oscar De La Hoya",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Boxing",
+   "Year": 1999,
+   "Earnings ($ million)": 43.5
+ },
+ {
+   "Sport Name": 94,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Basketball",
+   "Year": 1999,
+   "Earnings ($ million)": 40
+ },
+ {
+   "Sport Name": 95,
+   "Name": "Evander Holyfield",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Boxing",
+   "Year": 1999,
+   "Earnings ($ million)": 35.5
+ },
+ {
+   "Sport Name": 96,
+   "Name": "Mike Tyson",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Boxing",
+   "Year": 1999,
+   "Earnings ($ million)": 33
+ },
+ {
+   "Sport Name": 97,
+   "Name": "Shaq O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 1999,
+   "Earnings ($ million)": 31
+ },
+ {
+   "Sport Name": 98,
+   "Name": "Lennox Lewis",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Boxing",
+   "Year": 1999,
+   "Earnings ($ million)": 29
+ },
+ {
+   "Sport Name": 99,
+   "Name": "Dale Earnhardt",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Auto Racing",
+   "Year": 1999,
+   "Earnings ($ million)": 26.5
+ },
+ {
+   "Sport Name": 100,
+   "Name": "Grant Hill",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Basketball",
+   "Year": 1999,
+   "Earnings ($ million)": 23
+ },
+ {
+   "Sport Name": 101,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 1,
+   "Sport": "Auto Racing",
+   "Year": 2000,
+   "Earnings ($ million)": 59
+ },
+ {
+   "Sport Name": 102,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Golf",
+   "Year": 2000,
+   "Earnings ($ million)": 53
+ },
+ {
+   "Sport Name": 103,
+   "Name": "Mike Tyson",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Boxing",
+   "Year": 2000,
+   "Earnings ($ million)": 48
+ },
+ {
+   "Sport Name": 104,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Basketball",
+   "Year": 2000,
+   "Earnings ($ million)": 37
+ },
+ {
+   "Sport Name": 105,
+   "Name": "Grant Hill",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2000,
+   "Earnings ($ million)": 26
+ },
+ {
+   "Sport Name": 106,
+   "Name": "Dale Earnhardt",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Auto Racing",
+   "Year": 2000,
+   "Earnings ($ million)": 24.5
+ },
+ {
+   "Sport Name": 107,
+   "Name": "Shaq O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 2000,
+   "Earnings ($ million)": 24
+ },
+ {
+   "Sport Name": 108,
+   "Name": "Lennox Lewis",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Boxing",
+   "Year": 2000,
+   "Earnings ($ million)": 23
+ },
+ {
+   "Sport Name": 109,
+   "Name": "Oscar De La Hoya",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Boxing",
+   "Year": 2000,
+   "Earnings ($ million)": 23
+ },
+ {
+   "Sport Name": 110,
+   "Name": "Kevin Garnett",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Basketball",
+   "Year": 2000,
+   "Earnings ($ million)": 21
+ },
+ {
+   "Sport Name": 111,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2002,
+   "Earnings ($ million)": 69
+ },
+ {
+   "Sport Name": 112,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 2,
+   "Sport": "Auto Racing",
+   "Year": 2002,
+   "Earnings ($ million)": 67
+ },
+ {
+   "Sport Name": 113,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 2002,
+   "Earnings ($ million)": 36
+ },
+ {
+   "Sport Name": 114,
+   "Name": "Lennox Lewis",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Boxing",
+   "Year": 2002,
+   "Earnings ($ million)": 28
+ },
+ {
+   "Sport Name": 115,
+   "Name": "Grant Hill",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2002,
+   "Earnings ($ million)": 24
+ },
+ {
+   "Sport Name": 116,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2002,
+   "Earnings ($ million)": 24
+ },
+ {
+   "Sport Name": 117,
+   "Name": "Mike Tyson",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Boxing",
+   "Year": 2002,
+   "Earnings ($ million)": 23
+ },
+ {
+   "Sport Name": 118,
+   "Name": "Kevin Garnett",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 2002,
+   "Earnings ($ million)": 23
+ },
+ {
+   "Sport Name": 119,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Basketball",
+   "Year": 2002,
+   "Earnings ($ million)": 22
+ },
+ {
+   "Sport Name": 120,
+   "Name": "Jacques Villeneuve",
+   "Nationality": "Canada",
+   "Current Rank": 10,
+   "Sport": "Auto Racing",
+   "Year": 2002,
+   "Earnings ($ million)": 20
+ },
+ {
+   "Sport Name": 121,
+   "Name": "Jeff Gordon",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Auto Racing",
+   "Year": 2002,
+   "Earnings ($ million)": 20
+ },
+ {
+   "Sport Name": 122,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2003,
+   "Earnings ($ million)": 78
+ },
+ {
+   "Sport Name": 123,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 2,
+   "Sport": "Auto Racing",
+   "Year": 2003,
+   "Earnings ($ million)": 75
+ },
+ {
+   "Sport Name": 124,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 2003,
+   "Earnings ($ million)": 35
+ },
+ {
+   "Sport Name": 125,
+   "Name": "Shaq O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Basketball",
+   "Year": 2003,
+   "Earnings ($ million)": 30.5
+ },
+ {
+   "Sport Name": 126,
+   "Name": "Oscar De La Hoya",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Boxing",
+   "Year": 2003,
+   "Earnings ($ million)": 30
+ },
+ {
+   "Sport Name": 127,
+   "Name": "Kevin Garnett",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2003,
+   "Earnings ($ million)": 28
+ },
+ {
+   "Sport Name": 128,
+   "Name": "Alex Rodriguez",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Baseball",
+   "Year": 2003,
+   "Earnings ($ million)": 26
+ },
+ {
+   "Sport Name": 129,
+   "Name": "Grant Hill",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Basketball",
+   "Year": 2003,
+   "Earnings ($ million)": 25.5
+ },
+ {
+   "Sport Name": 130,
+   "Name": "Andre Agassi",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Tennis",
+   "Year": 2003,
+   "Earnings ($ million)": 24
+ },
+ {
+   "Sport Name": 131,
+   "Name": "Jacques Villeneuve",
+   "Nationality": "Canada",
+   "Current Rank": 10,
+   "Sport": "Auto Racing",
+   "Year": 2003,
+   "Earnings ($ million)": 23
+ },
+ {
+   "Sport Name": 132,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2004,
+   "Earnings ($ million)": 80.3
+ },
+ {
+   "Sport Name": 133,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 2,
+   "Sport": "Auto Racing",
+   "Year": 2004,
+   "Earnings ($ million)": 80
+ },
+ {
+   "Sport Name": 134,
+   "Name": "Peyton Manning",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "American Football",
+   "Year": 2004,
+   "Earnings ($ million)": 42
+ },
+ {
+   "Sport Name": 135,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Basketball",
+   "Year": 2004,
+   "Earnings ($ million)": 35
+ },
+ {
+   "Sport Name": 136,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2004,
+   "Earnings ($ million)": 31.9
+ },
+ {
+   "Sport Name": 137,
+   "Name": "Kevin Garnett",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2004,
+   "Earnings ($ million)": 29.7
+ },
+ {
+   "Sport Name": 138,
+   "Name": "Andre Agassi",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Tennis",
+   "Year": 2004,
+   "Earnings ($ million)": 28.2
+ },
+ {
+   "Sport Name": 139,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 8,
+   "Sport": "Soccer",
+   "Year": 2004,
+   "Earnings ($ million)": 28
+ },
+ {
+   "Sport Name": 140,
+   "Name": "Alex Rodriguez",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Baseball",
+   "Year": 2004,
+   "Earnings ($ million)": 26.2
+ },
+ {
+   "Sport Name": 141,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Basketball",
+   "Year": 2004,
+   "Earnings ($ million)": 26.1
+ },
+ {
+   "Sport Name": 142,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2005,
+   "Earnings ($ million)": 87
+ },
+ {
+   "Sport Name": 143,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 2,
+   "Sport": "Auto Racing",
+   "Year": 2005,
+   "Earnings ($ million)": 60
+ },
+ {
+   "Sport Name": 144,
+   "Name": "Oscar De La Hoya",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Boxing",
+   "Year": 2005,
+   "Earnings ($ million)": 38
+ },
+ {
+   "Sport Name": 145,
+   "Name": "Michael Vick",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "American Football",
+   "Year": 2005,
+   "Earnings ($ million)": 37.5
+ },
+ {
+   "Sport Name": 146,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2005,
+   "Earnings ($ million)": 33.4
+ },
+ {
+   "Sport Name": 147,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2005,
+   "Earnings ($ million)": 33
+ },
+ {
+   "Sport Name": 148,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 7,
+   "Sport": "Soccer",
+   "Year": 2005,
+   "Earnings ($ million)": 32.5
+ },
+ {
+   "Sport Name": 149,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Basketball",
+   "Year": 2005,
+   "Earnings ($ million)": 28.8
+ },
+ {
+   "Sport Name": 150,
+   "Name": "Lance Armstrong",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Cycling",
+   "Year": 2005,
+   "Earnings ($ million)": 28
+ },
+ {
+   "Sport Name": 151,
+   "Name": "Valentino Rossi",
+   "Nationality": "Italy",
+   "Current Rank": 9,
+   "Sport": "Moto GP",
+   "Year": 2005,
+   "Earnings ($ million)": 28
+ },
+ {
+   "Sport Name": 152,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2006,
+   "Earnings ($ million)": 90
+ },
+ {
+   "Sport Name": 153,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 2,
+   "Sport": "Auto Racing",
+   "Year": 2006,
+   "Earnings ($ million)": 58
+ },
+ {
+   "Sport Name": 154,
+   "Name": "Muhammad Ali",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Boxing",
+   "Year": 2006,
+   "Earnings ($ million)": 55
+ },
+ {
+   "Sport Name": 155,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Golf",
+   "Year": 2006,
+   "Earnings ($ million)": 47
+ },
+ {
+   "Sport Name": 156,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2006,
+   "Earnings ($ million)": 32
+ },
+ {
+   "Sport Name": 157,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2006,
+   "Earnings ($ million)": 31
+ },
+ {
+   "Sport Name": 158,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 2006,
+   "Earnings ($ million)": 30
+ },
+ {
+   "Sport Name": 159,
+   "Name": "Valentino Rossi",
+   "Nationality": "Italy",
+   "Current Rank": 8,
+   "Sport": "Moto GP",
+   "Year": 2006,
+   "Earnings ($ million)": 30
+ },
+ {
+   "Sport Name": 160,
+   "Name": "Alex Rodriguez",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Baseball",
+   "Year": 2006,
+   "Earnings ($ million)": 29
+ },
+ {
+   "Sport Name": 161,
+   "Name": "Tom Brady",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "American Football",
+   "Year": 2006,
+   "Earnings ($ million)": 29
+ },
+ {
+   "Sport Name": 162,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2007,
+   "Earnings ($ million)": 100
+ },
+ {
+   "Sport Name": 163,
+   "Name": "Oscar De La Hoya",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 2007,
+   "Earnings ($ million)": 43
+ },
+ {
+   "Sport Name": 164,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Golf",
+   "Year": 2007,
+   "Earnings ($ million)": 42
+ },
+ {
+   "Sport Name": 165,
+   "Name": "Kimi Raikkonen",
+   "Nationality": "Finland",
+   "Current Rank": 4,
+   "Sport": "Auto Racing",
+   "Year": 2007,
+   "Earnings ($ million)": 40
+ },
+ {
+   "Sport Name": 166,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 5,
+   "Sport": "Auto Racing",
+   "Year": 2007,
+   "Earnings ($ million)": 36
+ },
+ {
+   "Sport Name": 167,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 6,
+   "Sport": "Soccer",
+   "Year": 2007,
+   "Earnings ($ million)": 33
+ },
+ {
+   "Sport Name": 168,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2007,
+   "Earnings ($ million)": 33
+ },
+ {
+   "Sport Name": 169,
+   "Name": "Shaquille O'Neal",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Basketball",
+   "Year": 2007,
+   "Earnings ($ million)": 32
+ },
+ {
+   "Sport Name": 170,
+   "Name": "Ronaldinho",
+   "Nationality": "Brazil",
+   "Current Rank": 9,
+   "Sport": "Soccer",
+   "Year": 2007,
+   "Earnings ($ million)": 31
+ },
+ {
+   "Sport Name": 171,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Basketball",
+   "Year": 2007,
+   "Earnings ($ million)": 31
+ },
+ {
+   "Sport Name": 172,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2008,
+   "Earnings ($ million)": 115
+ },
+ {
+   "Sport Name": 173,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 2,
+   "Sport": "Soccer",
+   "Year": 2008,
+   "Earnings ($ million)": 50
+ },
+ {
+   "Sport Name": 174,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 2008,
+   "Earnings ($ million)": 45
+ },
+ {
+   "Sport Name": 175,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Golf",
+   "Year": 2008,
+   "Earnings ($ million)": 45
+ },
+ {
+   "Sport Name": 176,
+   "Name": "Kimi Raikkonen",
+   "Nationality": "Finland",
+   "Current Rank": 5,
+   "Sport": "Auto Racing",
+   "Year": 2008,
+   "Earnings ($ million)": 44
+ },
+ {
+   "Sport Name": 177,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2008,
+   "Earnings ($ million)": 39
+ },
+ {
+   "Sport Name": 178,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 2008,
+   "Earnings ($ million)": 38
+ },
+ {
+   "Sport Name": 179,
+   "Name": "Ronaldinho",
+   "Nationality": "Brazil",
+   "Current Rank": 8,
+   "Sport": "Soccer",
+   "Year": 2008,
+   "Earnings ($ million)": 37
+ },
+ {
+   "Sport Name": 180,
+   "Name": "Valentino Rossi",
+   "Nationality": "Italy",
+   "Current Rank": 9,
+   "Sport": "Moto GP",
+   "Year": 2008,
+   "Earnings ($ million)": 35
+ },
+ {
+   "Sport Name": 181,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 9,
+   "Sport": "Tennis",
+   "Year": 2008,
+   "Earnings ($ million)": 35
+ },
+ {
+   "Sport Name": 182,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2009,
+   "Earnings ($ million)": 110
+ },
+ {
+   "Sport Name": 183,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Basketball",
+   "Year": 2009,
+   "Earnings ($ million)": 45
+ },
+ {
+   "Sport Name": 184,
+   "Name": "Michael Jordan",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Basketball",
+   "Year": 2009,
+   "Earnings ($ million)": 45
+ },
+ {
+   "Sport Name": 185,
+   "Name": "Kimi Raikkonen",
+   "Nationality": "Finland",
+   "Current Rank": 2,
+   "Sport": "Auto Racing",
+   "Year": 2009,
+   "Earnings ($ million)": 45
+ },
+ {
+   "Sport Name": 186,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 5,
+   "Sport": "Soccer",
+   "Year": 2009,
+   "Earnings ($ million)": 42
+ },
+ {
+   "Sport Name": 187,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2009,
+   "Earnings ($ million)": 40
+ },
+ {
+   "Sport Name": 188,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Golf",
+   "Year": 2009,
+   "Earnings ($ million)": 40
+ },
+ {
+   "Sport Name": 189,
+   "Name": "Manny Pacquiao",
+   "Nationality": "Philippines",
+   "Current Rank": 6,
+   "Sport": "Boxing",
+   "Year": 2009,
+   "Earnings ($ million)": 40
+ },
+ {
+   "Sport Name": 190,
+   "Name": "Valentino Rossi",
+   "Nationality": "Italy",
+   "Current Rank": 9,
+   "Sport": "Moto GP",
+   "Year": 2009,
+   "Earnings ($ million)": 35
+ },
+ {
+   "Sport Name": 191,
+   "Name": "Dale Earnhardt Jr.",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Auto Racing",
+   "Year": 2009,
+   "Earnings ($ million)": 34
+ },
+ {
+   "Sport Name": 192,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2010,
+   "Earnings ($ million)": 105
+ },
+ {
+   "Sport Name": 193,
+   "Name": "Floyd Mayweather",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 2010,
+   "Earnings ($ million)": 65
+ },
+ {
+   "Sport Name": 194,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 2010,
+   "Earnings ($ million)": 48
+ },
+ {
+   "Sport Name": 195,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Golf",
+   "Year": 2010,
+   "Earnings ($ million)": 46
+ },
+ {
+   "Sport Name": 196,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 5,
+   "Sport": "Soccer",
+   "Year": 2010,
+   "Earnings ($ million)": 43.7
+ },
+ {
+   "Sport Name": 197,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 6,
+   "Sport": "Tennis",
+   "Year": 2010,
+   "Earnings ($ million)": 43
+ },
+ {
+   "Sport Name": 198,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 2010,
+   "Earnings ($ million)": 42.8
+ },
+ {
+   "Sport Name": 199,
+   "Name": "Manny Pacquiao",
+   "Nationality": "Philippines",
+   "Current Rank": 8,
+   "Sport": "Boxing",
+   "Year": 2010,
+   "Earnings ($ million)": 42
+ },
+ {
+   "Sport Name": 200,
+   "Name": "Eli Manning",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "American Football",
+   "Year": 2010,
+   "Earnings ($ million)": 39.9
+ },
+ {
+   "Sport Name": 201,
+   "Name": "Terrell Suggs",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "American Football",
+   "Year": 2010,
+   "Earnings ($ million)": 38.3
+ },
+ {
+   "Sport Name": 202,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2011,
+   "Earnings ($ million)": 75
+ },
+ {
+   "Sport Name": 203,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Basketball",
+   "Year": 2011,
+   "Earnings ($ million)": 53
+ },
+ {
+   "Sport Name": 204,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 2011,
+   "Earnings ($ million)": 48
+ },
+ {
+   "Sport Name": 205,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 4,
+   "Sport": "Tennis",
+   "Year": 2011,
+   "Earnings ($ million)": 47
+ },
+ {
+   "Sport Name": 206,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Golf",
+   "Year": 2011,
+   "Earnings ($ million)": 46.5
+ },
+ {
+   "Sport Name": 207,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 6,
+   "Sport": "Soccer",
+   "Year": 2011,
+   "Earnings ($ million)": 40
+ },
+ {
+   "Sport Name": 208,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 7,
+   "Sport": "Soccer",
+   "Year": 2011,
+   "Earnings ($ million)": 38
+ },
+ {
+   "Sport Name": 209,
+   "Name": "Alex Rodriguez",
+   "Nationality": "Dominican",
+   "Current Rank": 8,
+   "Sport": "Baseball",
+   "Year": 2011,
+   "Earnings ($ million)": 35
+ },
+ {
+   "Sport Name": 210,
+   "Name": "Michael Schumacher",
+   "Nationality": "Germany",
+   "Current Rank": 9,
+   "Sport": "Auto Racing",
+   "Year": 2011,
+   "Earnings ($ million)": 34
+ },
+ {
+   "Sport Name": 211,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 10,
+   "Sport": "Soccer",
+   "Year": 2011,
+   "Earnings ($ million)": 32.3
+ },
+ {
+   "Sport Name": 212,
+   "Name": "Floyd Mayweather",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Boxing",
+   "Year": 2012,
+   "Earnings ($ million)": 85
+ },
+ {
+   "Sport Name": 213,
+   "Name": "Manny Pacquiao",
+   "Nationality": "Filipino",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 2012,
+   "Earnings ($ million)": 62
+ },
+ {
+   "Sport Name": 214,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Golf",
+   "Year": 2012,
+   "Earnings ($ million)": 59.4
+ },
+ {
+   "Sport Name": 215,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Basketball",
+   "Year": 2012,
+   "Earnings ($ million)": 53
+ },
+ {
+   "Sport Name": 216,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 5,
+   "Sport": "Tennis",
+   "Year": 2012,
+   "Earnings ($ million)": 52.7
+ },
+ {
+   "Sport Name": 217,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2012,
+   "Earnings ($ million)": 52.3
+ },
+ {
+   "Sport Name": 218,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Golf",
+   "Year": 2012,
+   "Earnings ($ million)": 47.8
+ },
+ {
+   "Sport Name": 219,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 8,
+   "Sport": "Soccer",
+   "Year": 2012,
+   "Earnings ($ million)": 46
+ },
+ {
+   "Sport Name": 220,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 9,
+   "Sport": "Soccer",
+   "Year": 2012,
+   "Earnings ($ million)": 42.5
+ },
+ {
+   "Sport Name": 221,
+   "Name": "Peyton Manning",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "American Football",
+   "Year": 2012,
+   "Earnings ($ million)": 42.4
+ },
+ {
+   "Sport Name": 222,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Golf",
+   "Year": 2013,
+   "Earnings ($ million)": 78.1
+ },
+ {
+   "Sport Name": 223,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 2,
+   "Sport": "Tennis",
+   "Year": 2013,
+   "Earnings ($ million)": 71.5
+ },
+ {
+   "Sport Name": 224,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 2013,
+   "Earnings ($ million)": 61.9
+ },
+ {
+   "Sport Name": 225,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 4,
+   "Sport": "Basketball",
+   "Year": 2013,
+   "Earnings ($ million)": 59.8
+ },
+ {
+   "Sport Name": 226,
+   "Name": "Drew Brees",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "American Football",
+   "Year": 2013,
+   "Earnings ($ million)": 51
+ },
+ {
+   "Sport Name": 227,
+   "Name": "Aaron Rodgers",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "American Football",
+   "Year": 2013,
+   "Earnings ($ million)": 49
+ },
+ {
+   "Sport Name": 228,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Golf",
+   "Year": 2013,
+   "Earnings ($ million)": 48.7
+ },
+ {
+   "Sport Name": 229,
+   "Name": "David Beckham",
+   "Nationality": "UK",
+   "Current Rank": 8,
+   "Sport": "Soccer",
+   "Year": 2013,
+   "Earnings ($ million)": 47.2
+ },
+ {
+   "Sport Name": 230,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 9,
+   "Sport": "Soccer",
+   "Year": 2013,
+   "Earnings ($ million)": 44
+ },
+ {
+   "Sport Name": 231,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 10,
+   "Sport": "Soccer",
+   "Year": 2013,
+   "Earnings ($ million)": 41.3
+ },
+ {
+   "Sport Name": 232,
+   "Name": "Floyd Mayweather",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Boxing",
+   "Year": 2014,
+   "Earnings ($ million)": 105
+ },
+ {
+   "Sport Name": 233,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 2,
+   "Sport": "Soccer",
+   "Year": 2014,
+   "Earnings ($ million)": 80
+ },
+ {
+   "Sport Name": 234,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 2014,
+   "Earnings ($ million)": 72.3
+ },
+ {
+   "Sport Name": 235,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 4,
+   "Sport": "Soccer",
+   "Year": 2014,
+   "Earnings ($ million)": 64.7
+ },
+ {
+   "Sport Name": 236,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2014,
+   "Earnings ($ million)": 61.5
+ },
+ {
+   "Sport Name": 237,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Golf",
+   "Year": 2014,
+   "Earnings ($ million)": 61.2
+ },
+ {
+   "Sport Name": 238,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 7,
+   "Sport": "Tennis",
+   "Year": 2014,
+   "Earnings ($ million)": 56.2
+ },
+ {
+   "Sport Name": 239,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 2014,
+   "Earnings ($ million)": 53.2
+ },
+ {
+   "Sport Name": 240,
+   "Name": "Rafael Nadal",
+   "Nationality": "Spain",
+   "Current Rank": 9,
+   "Sport": "Tennis",
+   "Year": 2014,
+   "Earnings ($ million)": 44.5
+ },
+ {
+   "Sport Name": 241,
+   "Name": "Matt Ryan",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "American Football",
+   "Year": 2014,
+   "Earnings ($ million)": 43.8
+ },
+ {
+   "Sport Name": 242,
+   "Name": "Floyd Mayweather",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Boxing",
+   "Year": 2015,
+   "Earnings ($ million)": 300
+ },
+ {
+   "Sport Name": 243,
+   "Name": "Manny Pacquiao",
+   "Nationality": "Philippines",
+   "Current Rank": 2,
+   "Sport": "Boxing",
+   "Year": 2015,
+   "Earnings ($ million)": 160
+ },
+ {
+   "Sport Name": 244,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 3,
+   "Sport": "Soccer",
+   "Year": 2015,
+   "Earnings ($ million)": 79.6
+ },
+ {
+   "Sport Name": 245,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 4,
+   "Sport": "Soccer",
+   "Year": 2015,
+   "Earnings ($ million)": 73.8
+ },
+ {
+   "Sport Name": 246,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 5,
+   "Sport": "Tennis",
+   "Year": 2015,
+   "Earnings ($ million)": 67
+ },
+ {
+   "Sport Name": 247,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2015,
+   "Earnings ($ million)": 64.8
+ },
+ {
+   "Sport Name": 248,
+   "Name": "Kevin Durant",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 2015,
+   "Earnings ($ million)": 54.2
+ },
+ {
+   "Sport Name": 249,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 2015,
+   "Earnings ($ million)": 50.8
+ },
+ {
+   "Sport Name": 250,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Golf",
+   "Year": 2015,
+   "Earnings ($ million)": 50.6
+ },
+ {
+   "Sport Name": 251,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Basketball",
+   "Year": 2015,
+   "Earnings ($ million)": 49.5
+ },
+ {
+   "Sport Name": 252,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 1,
+   "Sport": "Soccer",
+   "Year": 2016,
+   "Earnings ($ million)": 88
+ },
+ {
+   "Sport Name": 253,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 2,
+   "Sport": "Soccer",
+   "Year": 2016,
+   "Earnings ($ million)": 81.4
+ },
+ {
+   "Sport Name": 254,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 3,
+   "Sport": "Basketball",
+   "Year": 2016,
+   "Earnings ($ million)": 77.2
+ },
+ {
+   "Sport Name": 255,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 4,
+   "Sport": "Tennis",
+   "Year": 2016,
+   "Earnings ($ million)": 67.8
+ },
+ {
+   "Sport Name": 256,
+   "Name": "Kevin Durant",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2016,
+   "Earnings ($ million)": 56.2
+ },
+ {
+   "Sport Name": 257,
+   "Name": "Novak Djokovic",
+   "Nationality": "Serbia",
+   "Current Rank": 6,
+   "Sport": "Tennis",
+   "Year": 2016,
+   "Earnings ($ million)": 55.8
+ },
+ {
+   "Sport Name": 258,
+   "Name": "Cam Newton",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "American Football",
+   "Year": 2016,
+   "Earnings ($ million)": 53.1
+ },
+ {
+   "Sport Name": 259,
+   "Name": "Phil Mickelson",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 2016,
+   "Earnings ($ million)": 52.9
+ },
+ {
+   "Sport Name": 260,
+   "Name": "Jordan Spieth",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Golf",
+   "Year": 2016,
+   "Earnings ($ million)": 52.8
+ },
+ {
+   "Sport Name": 261,
+   "Name": "Kobe Bryant",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Basketball",
+   "Year": 2016,
+   "Earnings ($ million)": 50
+ },
+ {
+   "Sport Name": 262,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 1,
+   "Sport": "Soccer",
+   "Year": 2017,
+   "Earnings ($ million)": 93
+ },
+ {
+   "Sport Name": 263,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 2,
+   "Sport": "Basketball",
+   "Year": 2017,
+   "Earnings ($ million)": 86.2
+ },
+ {
+   "Sport Name": 264,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 3,
+   "Sport": "Soccer",
+   "Year": 2017,
+   "Earnings ($ million)": 80
+ },
+ {
+   "Sport Name": 265,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 4,
+   "Sport": "Tennis",
+   "Year": 2017,
+   "Earnings ($ million)": 64
+ },
+ {
+   "Sport Name": 266,
+   "Name": "Kevin Durant",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2017,
+   "Earnings ($ million)": 60.6
+ },
+ {
+   "Sport Name": 267,
+   "Name": "Andrew Luck",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "American Football",
+   "Year": 2017,
+   "Earnings ($ million)": 50
+ },
+ {
+   "Sport Name": 268,
+   "Name": "Rory McIlroy",
+   "Nationality": "Northern Ireland",
+   "Current Rank": 6,
+   "Sport": "Golf",
+   "Year": 2017,
+   "Earnings ($ million)": 50
+ },
+ {
+   "Sport Name": 269,
+   "Name": "Stephen Curry",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Basketball",
+   "Year": 2017,
+   "Earnings ($ million)": 47.3
+ },
+ {
+   "Sport Name": 270,
+   "Name": "James Harden",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Basketball",
+   "Year": 2017,
+   "Earnings ($ million)": 46.6
+ },
+ {
+   "Sport Name": 271,
+   "Name": "Lewis Hamilton",
+   "Nationality": "UK",
+   "Current Rank": 10,
+   "Sport": "Auto Racing",
+   "Year": 2017,
+   "Earnings ($ million)": 46
+ },
+ {
+   "Sport Name": 272,
+   "Name": "Floyd Mayweather",
+   "Nationality": "USA",
+   "Current Rank": 1,
+   "Sport": "Boxing",
+   "Year": 2018,
+   "Earnings ($ million)": 285
+ },
+ {
+   "Sport Name": 273,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 2,
+   "Sport": "Soccer",
+   "Year": 2018,
+   "Earnings ($ million)": 111
+ },
+ {
+   "Sport Name": 274,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 3,
+   "Sport": "Soccer",
+   "Year": 2018,
+   "Earnings ($ million)": 108
+ },
+ {
+   "Sport Name": 275,
+   "Name": "Conor McGregor",
+   "Nationality": "Ireland",
+   "Current Rank": 4,
+   "Sport": "MMA",
+   "Year": 2018,
+   "Earnings ($ million)": 99
+ },
+ {
+   "Sport Name": 276,
+   "Name": "Neymar",
+   "Nationality": "Brazil",
+   "Current Rank": 5,
+   "Sport": "Soccer",
+   "Year": 2018,
+   "Earnings ($ million)": 90
+ },
+ {
+   "Sport Name": 277,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2018,
+   "Earnings ($ million)": 85.5
+ },
+ {
+   "Sport Name": 278,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 7,
+   "Sport": "Tennis",
+   "Year": 2018,
+   "Earnings ($ million)": 77.2
+ },
+ {
+   "Sport Name": 279,
+   "Name": "Stephen Curry",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Basketball",
+   "Year": 2018,
+   "Earnings ($ million)": 76.9
+ },
+ {
+   "Sport Name": 280,
+   "Name": "Matt Ryan",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "American Football",
+   "Year": 2018,
+   "Earnings ($ million)": 67.3
+ },
+ {
+   "Sport Name": 281,
+   "Name": "Matthew Stafford",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "American Football",
+   "Year": 2018,
+   "Earnings ($ million)": 59.5
+ },
+ {
+   "Sport Name": 282,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 1,
+   "Sport": "Soccer",
+   "Year": 2019,
+   "Earnings ($ million)": 127
+ },
+ {
+   "Sport Name": 283,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 2,
+   "Sport": "Soccer",
+   "Year": 2019,
+   "Earnings ($ million)": 109
+ },
+ {
+   "Sport Name": 284,
+   "Name": "Neymar",
+   "Nationality": "Brazil",
+   "Current Rank": 3,
+   "Sport": "Soccer",
+   "Year": 2019,
+   "Earnings ($ million)": 105
+ },
+ {
+   "Sport Name": 285,
+   "Name": "Canelo Alvarez",
+   "Nationality": "Mexico",
+   "Current Rank": 4,
+   "Sport": "Boxing",
+   "Year": 2019,
+   "Earnings ($ million)": 94
+ },
+ {
+   "Sport Name": 286,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 5,
+   "Sport": "Tennis",
+   "Year": 2019,
+   "Earnings ($ million)": 93.4
+ },
+ {
+   "Sport Name": 287,
+   "Name": "Russell Wilson",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "American Football",
+   "Year": 2019,
+   "Earnings ($ million)": 89.5
+ },
+ {
+   "Sport Name": 288,
+   "Name": "Aaron Rogers",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "American Football",
+   "Year": 2019,
+   "Earnings ($ million)": 89.3
+ },
+ {
+   "Sport Name": 289,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Basketball",
+   "Year": 2019,
+   "Earnings ($ million)": 89
+ },
+ {
+   "Sport Name": 290,
+   "Name": "Stephen Curry",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "Basketball",
+   "Year": 2019,
+   "Earnings ($ million)": 79.8
+ },
+ {
+   "Sport Name": 291,
+   "Name": "Kevin Durant",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "Basketball",
+   "Year": 2019,
+   "Earnings ($ million)": 65.4
+ },
+ {
+   "Sport Name": 292,
+   "Name": "Roger Federer",
+   "Nationality": "Switzerland",
+   "Current Rank": 1,
+   "Sport": "Tennis",
+   "Year": 2020,
+   "Earnings ($ million)": 106.3
+ },
+ {
+   "Sport Name": 293,
+   "Name": "Cristiano Ronaldo",
+   "Nationality": "Portugal",
+   "Current Rank": 2,
+   "Sport": "Soccer",
+   "Year": 2020,
+   "Earnings ($ million)": 105
+ },
+ {
+   "Sport Name": 294,
+   "Name": "Lionel Messi",
+   "Nationality": "Argentina",
+   "Current Rank": 3,
+   "Sport": "Soccer",
+   "Year": 2020,
+   "Earnings ($ million)": 104
+ },
+ {
+   "Sport Name": 295,
+   "Name": "Neymar",
+   "Nationality": "Brazil",
+   "Current Rank": 4,
+   "Sport": "Soccer",
+   "Year": 2020,
+   "Earnings ($ million)": 95.5
+ },
+ {
+   "Sport Name": 296,
+   "Name": "LeBron James",
+   "Nationality": "USA",
+   "Current Rank": 5,
+   "Sport": "Basketball",
+   "Year": 2020,
+   "Earnings ($ million)": 88.2
+ },
+ {
+   "Sport Name": 297,
+   "Name": "Stephen Curry",
+   "Nationality": "USA",
+   "Current Rank": 6,
+   "Sport": "Basketball",
+   "Year": 2020,
+   "Earnings ($ million)": 74.4
+ },
+ {
+   "Sport Name": 298,
+   "Name": "Kevin Durant",
+   "Nationality": "USA",
+   "Current Rank": 7,
+   "Sport": "Basketball",
+   "Year": 2020,
+   "Earnings ($ million)": 63.9
+ },
+ {
+   "Sport Name": 299,
+   "Name": "Tiger Woods",
+   "Nationality": "USA",
+   "Current Rank": 8,
+   "Sport": "Golf",
+   "Year": 2020,
+   "Earnings ($ million)": 62.3
+ },
+ {
+   "Sport Name": 300,
+   "Name": "Kirk Cousins",
+   "Nationality": "USA",
+   "Current Rank": 9,
+   "Sport": "American Football",
+   "Year": 2020,
+   "Earnings ($ million)": 60.5
+ },
+ {
+   "Sport Name": 301,
+   "Name": "Carson Wentz",
+   "Nationality": "USA",
+   "Current Rank": 10,
+   "Sport": "American Football",
+   "Year": 2020,
+   "Earnings ($ million)": 59.1
+ }
+]
