@@ -1,4 +1,4 @@
-# Project3
-Project 3
+# Group Project #3
 
-Link for CSV Data Set https://www.kaggle.com/datasets/parulpandey/forbes-highest-paid-athletes-19902019?resource=download
+## Highest Paid Athletes 1990 - 2020
+### Cameron, Andy, Frank & Nathan
