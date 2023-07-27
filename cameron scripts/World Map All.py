@@ -8,7 +8,7 @@ import plotly.express as px
 
 #read the csv file
 
-file_path = r'C:\Users\CDiFa\OneDrive\Uni - Data Analytics\Project 3\data.csv'
+file_path = 'https://github.com/NathanTeakle/Project3/blob/main/cameron%20scripts/data.csv'
 
 df = pd.read_csv(file_path)
 print(df.head())
